@@ -1,4 +1,4 @@
-### Hello, I'm Sammot/CYANSERAPH
+### Hello, I'm Sam
 
 I've been learning to become a full stack developer
 
