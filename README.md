@@ -1,6 +1,11 @@
+## Live Projects
+
+- Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/)
+
 ## I Contribute to
 
 - [github.com/Contraband-Software/Rock](https://github.com/Contraband-Software/Rock/)
+- [Contraband Software games](https://github.com/Contraband-Software)
 
 ## I Have Experience With
 
