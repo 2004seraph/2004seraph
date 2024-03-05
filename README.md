@@ -5,6 +5,9 @@
 ## I Contribute to
 
 - [github.com/Contraband-Software/Rock](https://github.com/Contraband-Software/Rock/)
+- [ContraInventory](https://github.com/Contraband-Software/ContraInventory)
+- [ContraDialogue](https://github.com/Contraband-Software/ContraDialogue)
+- [ContraPlatformIntegrations](https://github.com/Contraband-Software/ContraPlatformIntegrations)
 - [Contraband Software games](https://github.com/Contraband-Software)
 
 ## I Have Experience With
