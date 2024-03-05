@@ -10,6 +10,10 @@
 - [ContraPlatformIntegrations](https://github.com/Contraband-Software/ContraPlatformIntegrations)
 - [The Contraband Software games](https://github.com/Contraband-Software)
 
+## Other Projects
+
+- My streamer friend's homepage, [byeol.online](https://byeol.online/)
+
 ## I Have Experience With
 
 <div>
