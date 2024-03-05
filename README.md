@@ -2,13 +2,13 @@
 
 - Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/)
 
-## I Contribute to
+## I Contribute to (as a member of Contraband Software)
 
-- [github.com/Contraband-Software/Rock](https://github.com/Contraband-Software/Rock/)
+- [Rock](https://github.com/Contraband-Software/Rock/)
 - [ContraInventory](https://github.com/Contraband-Software/ContraInventory)
 - [ContraDialogue](https://github.com/Contraband-Software/ContraDialogue)
 - [ContraPlatformIntegrations](https://github.com/Contraband-Software/ContraPlatformIntegrations)
-- [Contraband Software games](https://github.com/Contraband-Software)
+- [The Contraband Software games](https://github.com/Contraband-Software)
 
 ## I Have Experience With
 
