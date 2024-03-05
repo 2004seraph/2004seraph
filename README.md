@@ -2,7 +2,7 @@
 
 - Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/)
 
-## I Contribute to (as a member of Contraband Software)
+## I Contribute to (as a member of [Contraband Software](https://github.com/Contraband-Software/))
 
 - [Rock](https://github.com/Contraband-Software/Rock/)
 - [ContraInventory](https://github.com/Contraband-Software/ContraInventory)
