@@ -1,3 +1,5 @@
+Here you will find my various personal programming endeavours, assignments, and projects.
+
 ## Live Projects
 
 - Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/)
