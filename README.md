@@ -1,4 +1,4 @@
-Here you will find my various personal programming endeavours, assignments, and projects.
+Here you will find my various personal programming endeavours, assignments, and (toy) projects.
 
 ## Live Projects
 
