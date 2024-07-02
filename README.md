@@ -1,3 +1,5 @@
+Hiii!!! I'm Sam, I like to design and code things ٩(◕‿◕｡)۶
+
 Here you will find my various personal programming endeavours, assignments, and (toy) projects.
 
 ## Live Projects
