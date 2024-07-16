@@ -16,6 +16,8 @@ Here you will find my various personal programming endeavours, assignments, and 
 - Fullstack Ruby on Rails project management system, built for education, [Projman](https://github.com/2004seraph/UniProjectManager)
 - Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/)
 
+Make sure to check out my pinned repositories!
+
 ## I Have Experience With
 
 <div>
