@@ -17,6 +17,7 @@ Here you will find my various personal programming endeavours, assignments, and 
 ## Other Projects
 
 - My streamer friend's homepage, [byeol.online](https://byeol.online/)
+- Fullstack Ruby on Rails project management system, built for education, [Projman](https://github.com/2004seraph/UniProjectManager)
 
 ## I Have Experience With
 
