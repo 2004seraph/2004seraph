@@ -2,10 +2,6 @@ Hiii!!! I'm Sam, I like to design and code things ٩(◕‿◕｡)۶
 
 Here you will find my various personal programming endeavours, assignments, and (toy) projects.
 
-## Live Projects
-
-- Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/)
-
 ## I Contribute to (as a member of [Contraband Software](https://github.com/Contraband-Software/))
 
 - [Rock](https://github.com/Contraband-Software/Rock/) - Open source cross-platform game engine framework
@@ -18,6 +14,7 @@ Here you will find my various personal programming endeavours, assignments, and 
 
 - My streamer friend's homepage, [byeol.online](https://byeol.online/)
 - Fullstack Ruby on Rails project management system, built for education, [Projman](https://github.com/2004seraph/UniProjectManager)
+- Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/)
 
 ## I Have Experience With
 
