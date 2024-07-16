@@ -8,11 +8,11 @@ Here you will find my various personal programming endeavours, assignments, and 
 
 ## I Contribute to (as a member of [Contraband Software](https://github.com/Contraband-Software/))
 
-- [Rock](https://github.com/Contraband-Software/Rock/)
-- [ContraInventory](https://github.com/Contraband-Software/ContraInventory)
-- [ContraDialogue](https://github.com/Contraband-Software/ContraDialogue)
-- [ContraPlatformIntegrations](https://github.com/Contraband-Software/ContraPlatformIntegrations)
-- [The Contraband Software games](https://github.com/Contraband-Software)
+- [Rock](https://github.com/Contraband-Software/Rock/) - Open source cross-platform game engine framework
+- [ContraInventory](https://github.com/Contraband-Software/ContraInventory) - Unity package
+- [ContraDialogue](https://github.com/Contraband-Software/ContraDialogue) - Unity package
+- [ContraPlatformIntegrations](https://github.com/Contraband-Software/ContraPlatformIntegrations) - Unity package
+- [The Contraband Software games](https://github.com/Contraband-Software) - .NET C#
 
 ## Other Projects
 
