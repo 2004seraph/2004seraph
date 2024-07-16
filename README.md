@@ -4,7 +4,7 @@ Here you will find my various personal programming endeavours, assignments, and 
 
 ## I Contribute to (as a member of [Contraband Software](https://github.com/Contraband-Software/))
 
-- [Rock](https://github.com/Contraband-Software/Rock/) - Open source cross-platform game engine framework
+- [Rock](https://github.com/Contraband-Software/Rock/) - Open source cross-platform game engine framework, made in pure .NET Core 6 C#
 - [ContraInventory](https://github.com/Contraband-Software/ContraInventory) - Unity package
 - [ContraDialogue](https://github.com/Contraband-Software/ContraDialogue) - Unity package
 - [ContraPlatformIntegrations](https://github.com/Contraband-Software/ContraPlatformIntegrations) - Unity package
