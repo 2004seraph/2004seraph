@@ -1,6 +1,6 @@
 Hiii!!! I'm Sam, I like to design and code things ٩(◕‿◕｡)۶
 
-Here you will find my various personal programming endeavours, assignments, and (toy) projects.
+Here you will find my various personal programming endeavours, assignments, and (toy) projects. My personal idol is @thestinger
 
 ## I Contribute to (as a member of [Contraband Software](https://github.com/Contraband-Software/))
 
