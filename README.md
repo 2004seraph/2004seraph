@@ -10,11 +10,12 @@ Here you will find my various personal programming endeavours, assignments, and 
 - [ContraPlatformIntegrations](https://github.com/Contraband-Software/ContraPlatformIntegrations) - Unity package
 - [The Contraband Software games](https://github.com/Contraband-Software) - .NET C#
 
-## Other Projects
+## Web Development Projects
 
-- My streamer friend's homepage, [byeol.online](https://byeol.online/)
+- My streamer friend's homepage, [byeol.online](https://byeol.online/), [GitHub Pages Backup](https://2004seraph.github.io/byeolonline/)
 - Fullstack Ruby on Rails project management system, built for education, [Projman](https://github.com/2004seraph/UniProjectManager)
-- Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/)
+- Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/), also available as a PWA
+- Dungeons and Dragons custom dice tool: [polyDice](https://2004seraph.github.io/polyDice/)
 
 Make sure to check out my pinned repositories!
 
