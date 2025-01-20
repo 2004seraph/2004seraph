@@ -15,7 +15,7 @@ Hiii!!! I'm Sam ٩(◕‿◕｡)۶ this is my code portfolio.
 
 ## Fun
 
-- Web-based multiplayer arena fighter: [Rogues](https://rogues.seraph.parts/), also available as a PWA
+- Web-based arena fighter: [Rogues](https://2004seraph.github.io/rogues/), also available as a PWA
 - Dungeons and Dragons dice tool: [polyDice](https://2004seraph.github.io/polyDice/)
 
 ## I Have Experience With
