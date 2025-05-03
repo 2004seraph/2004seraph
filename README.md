@@ -1,4 +1,4 @@
-Hiii!!! I'm Sam ٩(◕‿◕｡)۶ this is my code portfolio.
+Hiii!!! I'm Sam ٩(◕‿◕｡)۶ this is my code.
 
 ## .NET Core (as a member of [Contraband Software](https://github.com/Contraband-Software/))
 
